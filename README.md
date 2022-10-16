@@ -22,7 +22,6 @@ This is a web page with a simple ui that takes the user input for the image cate
 + The list rendering is achieved using dynamic span length for grid layout.
 + The client for making API requests is AJAX.
 + The number of images recieved from API calls is capped at 10.
-+ 
 
 # Getting Started with Create React App
 

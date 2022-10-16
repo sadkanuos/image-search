@@ -1,3 +1,25 @@
+# Image Search
+An image search app made for Udemy course: Modern React with Redux. This app is made as a part of the explainer for making user input with forms and events, making api request with React, building lists of records and using ref for DOM access
+
+This is a web page with a simple ui that takes the user input for the image category to be displayed. It then requests the image from unsplash.com via it's developer API and renders it to the DOM in a list manner. In an updated version, the rendering is done via dynamic spans in grid layout.
+
+## App Design
+### v1 design
+<img src="assets/v1.png">
+
+### v2 design
+<img src="assets/v2.png">
+
+## Demo
+<img src="assets/demo.gif">
+
+## Notes
++ The image requests are done using unsplash API.
++ The list rendering is achieved using dynamic span length for grid layout.
++ The client for making API requests is AJAX.
++ The number of images recieved from API calls is capped at 10.
++ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

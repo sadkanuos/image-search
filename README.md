@@ -4,8 +4,7 @@ An image search app made for Udemy course: Modern React with Redux. This app is 
 This is a web page with a simple ui that takes the user input for the image category to be displayed. It then requests the image from unsplash.com via it's developer API and renders it to the DOM in a list manner. In an updated version, the rendering is done via dynamic spans in grid layout.
 
 ## Made Using
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white">
 
 
 ## App Design
